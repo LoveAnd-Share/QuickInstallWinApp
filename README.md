@@ -8,3 +8,7 @@
 - Neat Download Manager
 - potplayer
 - vscode
+# 安装方式
+1. 通过winget安装
+   winget应用下载地址:https://github.com/microsoft/winget-cli/releases  
+2. bat脚本安装
